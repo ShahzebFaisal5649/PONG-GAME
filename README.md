@@ -1,5 +1,6 @@
 
 # Pong Game
+![Screenshot 2024-06-13 190306](https://github.com/ShahzebFaisal5649/PONG-GAME/assets/162788730/520f2f00-db20-40fd-89b4-8762f726194d)
 
 ![Screenshot (240)](https://github.com/ShahzebFaisal5649/PONG-GAME/assets/162788730/dfe2c306-f238-4feb-afae-025560b7b195)
 
