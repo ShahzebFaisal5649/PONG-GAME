@@ -1,7 +1,8 @@
 
 # Pong Game
 
-![Screenshot (239)](https://github.com/ShahzebFaisal5649/PONG-GAME/assets/162788730/e65f6d99-aea6-4fbe-ab6c-224be0dd83ae)
+![Screenshot (240)](https://github.com/ShahzebFaisal5649/PONG-GAME/assets/162788730/dfe2c306-f238-4feb-afae-025560b7b195)
+
 
 
 ## Introduction
